@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+bin/
+obj/
+out/
+
+# Visual Studio Code settings (pokud používáš i VS Code)
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Precompiled headers
+*.pch
+*.pdb
+
+# Generated binaries
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
